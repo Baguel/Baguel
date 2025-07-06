@@ -2,7 +2,7 @@
 
 ```bash
 $ whoami
-> Florentin GANFON | Junior Full-Stack Developer | Power Apps Developer
+> Florentin GANFON | Junior FullStack Developer | Power Apps Developer | Backend Developer
 $ uptime
 > Coding since 2023 • 
 ```
