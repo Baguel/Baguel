@@ -12,7 +12,7 @@ $ uptime
 ```javascript
 const devStatus = {
     currentlyLearning: ["Rust", "Django"],
-    challenge: "Optimizing API response time < 50ms",
+    challenge: "Just Wait",
 };
 ```
 
@@ -52,60 +52,14 @@ const devStatus = {
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 
-## 📈 GitHub Activity Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Baguel&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true)
-
-
-## 🏆 Achievements
-
-```diff
-+ 500+ commits this year
-+ 50+ pull requests merged
-+ 25+ issues resolved
-+ 10+ repositories starred by 100+ users
-+ 5+ major performance optimizations delivered
-```
-
-## 🎯 Current Focus
-
-```typescript
-interface CurrentProjects {
-  primary: {
-    name: "High-Performance API Gateway";
-    tech: ["Go", "Redis", "PostgreSQL"];
-    status: "Production";
-    users: 10000;
-  };
-  
-  sideProject: {
-    name: "WebAssembly Game Engine";
-    tech: ["Rust", "WebAssembly", "WebGL"];
-    status: "Development";
-    performance: "60fps target";
-  };
-  
-  learning: {
-    focus: "Systems Programming";
-    currently: "Rust ecosystem";
-    next: "Kernel development";
-  };
-}
-```
 ## 🔧 System Specs
 
 ```yaml
 Development Environment:
   OS: "Linux (Arch BTW)"
-  Editor: "Neovim + VSCode"
-  Terminal: "Alacritty + Zsh + Starship"
-  Hardware: "32GB RAM, RTX 4070, NVMe SSD"
-  
-Productivity:
-  WPM: 85
-  Daily commits: 5-10
-  Coffee consumption: "return true"
-  Preferred theme: "Dark (obviously)"
+  Editor: "VSCode"
+  Terminal: "Zsh"
+
 ```
 
 ## 📫 Connect
@@ -119,14 +73,8 @@ Productivity:
 
 
 ```
-## Tech Stack
-
-**Client:** React, Redux, TailwindCSS
-
-**Server:** Node, Express
-
 
 ## Support
 
-For support, email fake@fake.com or join our Slack channel.
+For support, email florentin1.ganfon@epitech.eu or join our Slack channel.
 
